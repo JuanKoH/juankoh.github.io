@@ -1,0 +1,260 @@
+* {font-family:Arial, Helvetica, sans-serif;}
+
+h1  {color: rgb(48, 55, 208);
+    padding-left: 20px;}
+#bigt {font-size: 450%}
+h2  {color: rgb(24, 57, 114);
+    font-size: 350%;
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;}
+h3  {color: rgb(24, 57, 114);
+    text-align: left;
+    padding-left: 20%;
+    padding-right: 20%;}
+h5 {color: rgb(106, 120, 145);
+    font-size: 110%;}
+.aline{vertical-align: middle;
+    padding: 10px;}
+.aliner{float: right;
+    vertical-align: middle;}
+#buthoax {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: text-bottom;
+    height: 40 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;
+    
+}
+#butsubmit {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: middle;
+    height: 80 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;
+
+}
+#butcallnow {
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: middle;
+    height: 80 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;}
+#butchatnow {padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: middle;
+    height: 80 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;}
+
+
+#vbutcallnow
+{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: middle;
+    height: 80 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;}
+#butmessagenow 
+{
+    padding: 10px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(45, 50, 204);
+    vertical-align: middle;
+    height: 80 px;
+    width: 130 px;
+    border-radius: 3px;
+    border: none;}
+
+p   {color: rgb(106, 120, 145);
+    font-size: x-large;
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;}
+
+#htittle {
+        font-size: 30px;
+        padding-left: 5%;
+        width: 35%;
+        float:left}
+.menu   {
+    width: 12%;
+        text-align: justify;
+        list-style: none;
+        float: left;
+        font-size: 125%;
+        }
+.smenu{width: 15%;
+    padding-left: 5%;
+    font-size: 150%;
+    color: rgb(106, 120, 145);
+}
+.ssmenuc{
+    width: 10%;
+    padding-left: 5%;
+    font-size: 150%;
+    color: rgb(24, 57, 114);
+}
+.blue {color: rgb(24, 57, 114);
+        padding-left: 10px;
+        font-size: 120%;}
+.gray {color:rgb(106, 120, 145);
+        font-size: 120%;}
+.ssfsection{ font-size: 125%;}
+span{width: 80%;}
+#schvac     {
+            padding-left: 20%;
+            text-align: left;
+            color: rgb(24, 57, 114);
+            font-size: 250%;}
+
+#ftable {padding-left: 20%;}
+#ttable {width: 100%;
+}
+ul{
+    list-style: none;
+
+    }
+
+.liend{
+    font-size: 150%;
+    color: rgb(24, 57, 114);
+
+}
+#menupbv {padding-left: 20%;
+            }
+.tdicon {padding-left: 100px;}
+
+div     {
+    text-align: justify;
+    width: 50%;
+    float: left;}
+
+#boxnurse {height: 600px;
+    
+    background-image: url(./images/nurseVaccine.png);
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: cover;    
+        }
+#boxnogirl {height: 600px;
+            background-image: url(./images/nogirl.png);
+            background-repeat: no-repeat;
+            background-size: cover;   
+            
+        }
+#boxdoc {height: 600px;
+            background-image: url(./images/bluedoc.png);
+            background-repeat: no-repeat;
+            background-size: cover;   
+        }
+#farmaceuticsbox {
+            width: 90%;
+            height: 150px;
+            background-image: url(./images/Farmaceutics.png);
+            background-repeat: none;
+            background-position: rignt;
+            background-size: 100%}
+#sepbox{
+            height: 300px;
+            background-image: url(./images/triangleseparator.png);
+            background-size: cover;
+            background-position: right;
+}
+#sepboxright{
+    height: 300px;
+    background-image: url(./images/triangleseparator.png);
+    background-size: cover;
+    background-position: right;
+}
+#leftsep    {
+            height: 300px;
+            background-image: url(./images/triangleseparatorleft.png);
+            background-size: cover;
+            background-position: left;   
+            float: left; 
+        }
+#whitediv   {height: 300px;
+            background-color: white;}
+#footera  { 
+            padding-top: 50px;
+            background-color: rgb(237, 242, 255); 
+            height: 250px;}
+#footerb  { padding-top: 50px;
+            background-color: rgb(237, 242, 255);
+            height: 200px;}
+#footerlist {
+            padding-top: 20px;
+            background-color: rgb(237, 242, 255);
+            margin: 0px;
+            float: left;
+            width: 97%;
+}
+#tablecontact{
+            padding: 10px;
+
+
+}
+#tablemfooter {
+    align-items: center;
+    padding-top: 50px;
+    padding-right: 30% ;
+    text-align: center;
+}
+#flisteda {float: left;
+    width: 30%;
+text-align: left;}
+
+#flistedb {float: left;
+    width: 30%;
+text-align: right;}
+#flistedc {float: left;
+    width: 30%;
+text-align: center;}
+
+#divcontainerf {
+    height: 300px;
+    background-color: rgb(237, 242, 255);
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    align-content: center;
+}
+.flexobjf{
+    font-size: small;
+    height: 80%;
+    padding: 5%;
+    width: 29%;
+    align-items: center;
+    align-content: center;
+    text-align: left;
+}
+#divcontacttable {
+    height: 100%;
+    width: 30%;
+    padding: 10%;
+
+}
+.justif {text-align: justify;}
+.pding {padding: 5px;}
+
