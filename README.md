@@ -1,8 +1,6 @@
 # Portafolio personal 
 
 
-HTML practice FrontEnd First week:  http://juankoh.github.io/CupcakeFactory/index.html
-
 CSS practice FrontEnd Second week: https://juankoh.github.io/Vacc/index.html
 
 JavaScript practice Third week: https://juankoh.github.io/PokeDex/index.html
