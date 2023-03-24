@@ -1,4 +1,4 @@
-# practicas Launch X primera y segunda semana.
+# Portafolio personal 
 
 
 HTML practice FrontEnd First week:  http://juankoh.github.io/CupcakeFactory/index.html
