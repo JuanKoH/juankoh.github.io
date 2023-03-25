@@ -2,34 +2,27 @@
     background-color: black;
 }
 
-.fondoImg {
-    background-image: url("../CupcakeFactory/Logo//cupcakesf.png");
-    background-repeat: repeat;
-    background-position: center;
-}
+
 
 
 h1 {
-    color: #f43c54;
+    color: white;
+    text-align: center;
 }
 
 h2 {
     text-align: center;
-    color: #f43c54;
+    color: whitesmoke;
 }
 
 h3 {
     text-align: center;
-    color: #6c0c20;
+    color: whitesmoke;
 }
 
-.centrado {
-    text-align: center;
-}
 
-.izq {
-    text-align: left;
-}
+
+
 
 th {
     text-align: center;
@@ -37,7 +30,7 @@ th {
 
 
 p {
-    color: #6c0c20;
+    color: whitesmoke;
 }
 
 body {
@@ -56,17 +49,9 @@ td {
     text-align: center;
 }
 
-ul {
-    color: #6c0c20;
-}
 
-dl {
-    text-align: justify;
-    color: #6c0c20;
-    padding-left: 50px;
-}
 
 a {
-    color: #6c0c20;
+    color: gray;
 
 }
